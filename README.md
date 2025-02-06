@@ -9,7 +9,7 @@ You can use the official pre-trained SD3/SD3.5 models for image mapping. Additio
 
 Follow this [workflow](example_workflows/example_SD3_SD3.5_Flowedit.json) to get started.
 
-To use ComfyUI nodes that support Flux in FlowEdit, refer to [ComfyUI-Fluxtapoz](https://github.com/logtd/ComfyUI-Fluxtapoz). This project's source code is based on modifications of ComfyUI-Fluxtapoz.
+To use ComfyUI nodes that support Flux in FlowEdit, refer to [ComfyUI-Fluxtapoz](https://github.com/logtd/ComfyUI-Fluxtapoz). This project's code is based on modifications of ComfyUI-Fluxtapoz.
 
 ![lighthouse](https://github.com/user-attachments/assets/711c3477-150b-44d8-9644-f68c1616af2c)
 
