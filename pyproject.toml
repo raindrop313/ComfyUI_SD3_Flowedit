@@ -1,0 +1,15 @@
+[project]
+name = "sd3_flowedit"
+description = "ComfyUI nodes that support SD3/SD3.5 in FlowEdit"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["einshape"]
+
+[project.urls]
+Repository = "https://github.com/raindrop313/ComfyUI_SD3_Flowedit"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_SD3_Flowedit"
+Icon = ""
